@@ -1,0 +1,4 @@
+---
+
+
+kernel_arguments: arch=amd64 username=sysadmin password=sysadmin
